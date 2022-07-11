@@ -23,8 +23,7 @@ class Solution:
 
         # TODO: Write code below to return a string with the solution to the prompt
 
-        print("Hello World!")
-        pass
+        return "Hello World!"
 
 def main():
     tc1 = Solution()
